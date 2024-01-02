@@ -1,6 +1,6 @@
 # Android-Controlled Autoclicker App 📱🖱️
 
-Welcome to the Android-Controlled Autoclicker App repository! This android app controls the autoclicker functionality provided in the [autoclicker repository](<Autoclicker Repo Link>).
+Welcome to the Android-Controlled Autoclicker App repository! This android app controls the autoclicker functionality provided in the [autoclicker repository](https://github.com/TiaSirio/Android-Controlled-Autoclicker).
 
 ## Overview 🌐
 
@@ -19,7 +19,7 @@ This Android app allows you to remotely control the autoclicker. Seamlessly inte
 
 ## Autoclicker Repository 🖱️
 
-The autoclicker system associated with this app is available in [this repository](<Autoclicker Repo Link>).
+The autoclicker system associated with this app is available in [this repository](https://github.com/TiaSirio/Android-Controlled-Autoclicker).
 
 ## Author 👨‍💻
 
