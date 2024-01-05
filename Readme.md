@@ -23,4 +23,4 @@ The autoclicker system associated with this app is available in [this repository
 
 ## Author 👨‍💻
 
-- Mattia Siriani
+- [TiaSirio](https://www.github.com/TiaSirio)
